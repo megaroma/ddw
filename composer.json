@@ -1,7 +1,7 @@
 {
     "name": "ddstudio/widget",
     "description": "widget system",
-    "homepage": "https://github.com/megaspy/widget.git",
+    "homepage": "https://github.com/megaspy/ddw.git",
     "type": "lib",
     "require": {
         "php": ">=5.3"
